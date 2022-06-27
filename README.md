@@ -7,7 +7,7 @@ Filipino software engineer & web developer from the Philippines. 💻💖☕
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/22llhube73kw25xltxunvep4i)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&redirect=true)
 
 ## 🔧 Technologies
 
