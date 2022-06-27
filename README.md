@@ -1,0 +1,14 @@
+# Hi, I'm Jayson Garcia (💻💖☕)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jaysonegarcia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/jegsonn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallowichig0)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Web+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+Filipino software engineer & web developer from the Philippines. 💻💖☕
+
+## 🎧 Spotify Playing
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/22llhube73kw25xltxunvep4i)
+
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=wordpress,drupal,laravel,php.html,css,sass,js,jquery,nodejs,react,nextjs,mysql,linux,docker,git,bash,nginx,vscode&theme=light)
