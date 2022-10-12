@@ -13,3 +13,8 @@ Software engineer & web developer from the Philippines. 💻☕
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=php,wordpress,drupal,laravel,html,css,sass,js,jquery,bootstrap,webpack,nodejs,react,nextjs,mysql,linux,docker,git,bash,nginx,vscode&theme=light)
+
+## Stats
+
+![Statistics](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/languages.svg)
