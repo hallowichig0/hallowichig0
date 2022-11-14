@@ -6,10 +6,6 @@
 
 Software engineer & web developer from the Philippines. 💻☕
 
-## 🎧 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&redirect=true)
-
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=php,wordpress,drupal,laravel,html,css,sass,js,jquery,bootstrap,webpack,nodejs,react,nextjs,mysql,linux,docker,git,bash,nginx,vscode&theme=light)
@@ -18,3 +14,7 @@ Software engineer & web developer from the Philippines. 💻☕
 
 ![Statistics](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/languages.svg)
+
+## 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&redirect=true)
