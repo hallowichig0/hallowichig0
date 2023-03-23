@@ -8,7 +8,7 @@ Software engineer & web developer from the Philippines. 💻☕
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=php,wordpress,drupal,laravel,html,css,sass,js,jquery,bootstrap,webpack,nodejs,react,nextjs,mysql,linux,docker,git,bash,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=php,wordpress,drupal,laravel,html,css,sass,js,jquery,bootstrap,webpack,nodejs,react,nextjs,mysql,linux,docker,git,bash,nginx,vscode&theme=light,postman)
 
 ## Stats
 
