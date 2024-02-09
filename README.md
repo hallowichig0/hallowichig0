@@ -19,7 +19,7 @@ Software engineer & web developer from the Philippines. 💻☕
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="60" height="60" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
