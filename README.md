@@ -39,6 +39,9 @@ Software engineer & web developer from the Philippines. 💻☕
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60" />
   </a>
+  <a href="https://gulpjs.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60" />
+  </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60" />
   </a>
