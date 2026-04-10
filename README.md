@@ -78,7 +78,3 @@ Software engineer & web developer from the Philippines. 💻☕
 
 ![Statistics](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/languages.svg)
-
-## 🎧 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22llhube73kw25xltxunvep4i&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&redirect=true)
