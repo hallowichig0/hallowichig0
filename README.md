@@ -34,11 +34,11 @@
 
 </p>
 
-<!-- Contribution Graph -->
+<!-- Activity Graph -->
 <p align="center">
   <picture>
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowichig0&theme=github_dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowichig0&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowichig0&theme=default" alt="Contribution Graph" width="100%" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=hallowichig0&theme=github-dark&hide_border=true&area=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=hallowichig0&theme=minimal&hide_border=true&area=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hallowichig0&theme=minimal&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
   </picture>
 </p>
