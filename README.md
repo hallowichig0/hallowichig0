@@ -34,22 +34,11 @@
 
 </p>
 
-<!-- Stats Cards - Side by Side -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=hallowichig0&show_icons=true&theme=dark&count_private=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=hallowichig0&show_icons=true&count_private=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=hallowichig0&show_icons=true&count_private=true&hide_border=true" alt="Jayson's GitHub Stats" height="195" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hallowichig0&layout=compact&theme=dark&hide_border=true&langs_count=10" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hallowichig0&layout=compact&hide_border=true&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallowichig0&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" height="195" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- Contribution Graph -->
+<p align="center">
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowichig0&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowichig0&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowichig0&theme=default" alt="Contribution Graph" width="100%" />
+  </picture>
+</p>
