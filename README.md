@@ -19,12 +19,12 @@
 <h3 align="center">👋 Software engineer & web developer based in 🇵🇭 Philippines</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hallowichig0&label=Profile%20Views&color=016EEA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jaysonegarcia&label=Profile%20Views&color=016EEA&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hallowichig0&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jaysonegarcia&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Tech Stack -->
@@ -37,8 +37,8 @@
 <!-- Activity Graph -->
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=hallowichig0&theme=github-dark&hide_border=true&area=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=hallowichig0&theme=minimal&hide_border=true&area=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hallowichig0&theme=minimal&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=jaysonegarcia&theme=github-dark&hide_border=true&area=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=jaysonegarcia&theme=minimal&hide_border=true&area=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysonegarcia&theme=minimal&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
   </picture>
 </p>
