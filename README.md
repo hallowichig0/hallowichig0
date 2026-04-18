@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Jayson Garcia 💻☕</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hallowichig0">
+  <a href="https://www.linkedin.com/in/jegson">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
