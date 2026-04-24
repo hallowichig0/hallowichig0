@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h3 align="center">👋 Software engineer & web developer based in 🇵🇭 Philippines</h3>
+<h3 align="center">👋 Software engineer & web developer based in the Philippines 🇵🇭</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaysonegarcia&label=Profile%20Views&color=016EEA&style=flat-square" alt="Profile Views" />
